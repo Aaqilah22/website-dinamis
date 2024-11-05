@@ -8,7 +8,7 @@
 <img width="960" alt="Contact-web" src="https://github.com/user-attachments/assets/29e8dff0-ea7a-424e-a2d3-cee8e07098e7">
 
 # DATATABLES
-<img width="437" alt="{2D90449F-0A2D-4F4A-937E-CC60665D228F}" src="https://github.com/user-attachments/assets/409d6ddb-c0a1-4825-9a7e-4ff4852d0583">
+<img width="960" alt="datatables-Web" src="https://github.com/user-attachments/assets/a376bd5b-4786-437b-8f50-cbfcda62927e">
 
 # FROM
-<img width="437" alt="{2D90449F-0A2D-4F4A-937E-CC60665D228F}" src="https://github.com/user-attachments/assets/4a3cd628-1c15-4d63-b88c-28ef143cf2dc">
+<img width="960" alt="from-Web" src="https://github.com/user-attachments/assets/16b03eb4-9483-4a8d-8bc9-6f0186db6e3d">
